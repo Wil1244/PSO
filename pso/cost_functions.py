@@ -1,8 +1,8 @@
-def sphere(x):
-    total=0
-    for i in range(len(x)):
-        total+=x[i]**2
-    return total
+def PRV(x1, x2, x3):
+   
+    z =(123)*x1 + (54)*x2 + (75)*x3 
     
-if __name__ == "pso.sphere":
-    sphere()
+    return z
+
+if __name__ == "pso.PRV":
+    PRV()
