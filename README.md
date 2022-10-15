@@ -1,2 +1,2 @@
 # PSO
-FEITO PARA LEIGOS
+okay
